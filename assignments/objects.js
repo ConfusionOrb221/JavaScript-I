@@ -16,7 +16,6 @@ const example = {
   email: "examples@you.edu",
   gender: "F",
 }
-
 // Write your intern objects here:
 const interns = {
   mitzi : {id: 1, email: "mmelloy0@psu.edu", name: "Mitzi", gender: 'F' },
